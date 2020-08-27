@@ -5,3 +5,4 @@
 ###  * Number of McDonalds are exact same in Des Moines and NYC in highly dense areas.
 ###  * McDonalds are located in highly dense and busy areas. NYC has been successful having bike sharing in these areas.
 ###  * Gender ratios in Des Moines are also very closely similar to NYC which further indicates that interests may match with NYC as well. 
+###  * https://public.tableau.com/profile/toral.shah#!/vizhome/bikesharing_challenge/DesMoinesBikeShare?publish=yes
